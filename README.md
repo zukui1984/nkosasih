@@ -4,7 +4,6 @@ Experienced salesperson with web development and cloud knowledge (Azure/GCP), sp
 
 ### Work Experience
 #### Career change (since Aug. 2023 - present)
-  - Business Intelligence | Data Analyst | Data Engineer
 #### AGU mbH @ IT Projectmanager - Pharmaceutical (Jan. 2021 to Aug. 2023)
   - Acquisition and support of partners, customers, and accounts abroad
   - Enhancing SDC - Middleware software, including GMP compliance.
@@ -19,15 +18,8 @@ Experienced salesperson with web development and cloud knowledge (Azure/GCP), sp
 
 #### Education
   -  Data Engineer Zoomcamp (Jan. 2024 - Apr. 2024)
-  - Stackfuel - Business Intelligence / Data Analyst (Aug. 2023 to Dec. 2023)
+  -  Stackfuel - Business Intelligence / Data Analyst (Aug. 2023 to Dec. 2023)
   -  University Applied of Science Worms (2007-2012)
-
-#### Skills and certificates
-- **Certificates**:
-    * Google Analytics 4 | Google Data Analytics
-    * Google Cloud (GCP) - Associate Cloud Engineer
-    * Azure Fundamentals: AZ-900
-    * Stackfuel - Business Intelligence | Data Analyst
 
 
 
